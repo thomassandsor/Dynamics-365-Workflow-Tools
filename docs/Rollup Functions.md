@@ -21,7 +21,7 @@ Output Parameters:
 
 
 **Dynamic Query from Parent record**: In the FetchXML, you can set a dynamic value for the parent record using the TAG "{PARENT_GUID}" like I show in the following image:
-![](Rollup%20Functions_wf3.gif)
+![](Rollup%20Functions_wf3.gif) (Does this need an update? only returning the sum 0)
 
 **Value for Calculations**: For calculations, I use only the first Attribute on the FetchXML query. This attribute must to be a number or money Attribute.
 
